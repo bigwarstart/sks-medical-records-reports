@@ -63,5 +63,5 @@ The SQL targets the `HASTANE` schema of an Oracle-based HBYS. For a different HB
 
 **Fatih Koçan**: IT Manager with 25+ years in hospital IT, Web3 developer & ambassador
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Koçan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-ko%C3%A7an-3bbb49349/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Koçan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihkocan-3bbb49349/)
 [![GitHub](https://img.shields.io/badge/GitHub-bigwarstart-181717?style=for-the-badge&logo=github)](https://github.com/bigwarstart)
